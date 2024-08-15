@@ -41,3 +41,7 @@ To run unit tests, select the `Test navigator` and tap play button infront of `m
 ## UI Automated Testing
 
 To run Automated tests, select the `Test navigator` and tap play button infront of `mkodoUITests`
+
+## Demo
+
+![Simulator Screen Recording - iPhone 15 Pro - 2024-08-15 at 11 22 02](https://github.com/user-attachments/assets/ff32035b-864a-4ecc-b8f9-e9108a9e4403)
